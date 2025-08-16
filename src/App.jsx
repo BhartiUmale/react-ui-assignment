@@ -4,8 +4,8 @@ import DataTable from "./components/DataTable/DataTable";
 function App() {
   return (
     <>
-      <div style={{ padding: "20px" }}>
-        <h1>React UI Assignment</h1>
+      <div className="" style={{ padding: "20px" }}>
+        <h1 className="text-red-500">React UI Assignment</h1>
 
         <section>
           <h2>InputField Demo</h2>
