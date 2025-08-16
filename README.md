@@ -10,14 +10,16 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
 # 🎨 React UI Components Assignment
 
 This project contains two reusable React UI components — **InputField** and **DataTable** — built with **React (Vite + JSX)**, **TailwindCSS**, and **Storybook**.  
-The goal of this assignment is to demonstrate scalable component design, modern UI patterns, and proper documentation.  
+The goal of this assignment is to demonstrate scalable component design, modern UI patterns, and proper documentation.
 
 ---
 
 ## 🚀 Tech Stack
+
 - [React (Vite)](https://vitejs.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Storybook](https://storybook.js.org/)
@@ -28,16 +30,19 @@ The goal of this assignment is to demonstrate scalable component design, modern 
 ## 📸 Screenshots
 
 ### InputField Component
-![InputField Screenshot](screenshots/inputField.png)
+
+![InputField Screenshot](./src/screenshots/inputField.png)
 
 ### DataTable Component
-![DataTable Screenshot](screenshots/datatable.png)
---------
+
+## ![DataTable Screenshot](./src/screenshots/datatable.png)
+
 ## 📦 Installation & Setup
 
 Clone the repository:
-```bash
-git clone https://github.com/your-username/react-ui-assignment.git
+
+````bash
+git clone https://github.com/BhartiUmale/react-ui-assignment.git
 cd react-ui-assignment
 
 ----
@@ -50,3 +55,4 @@ npm install
 npm run storybook
 npm run dev
 
+````
