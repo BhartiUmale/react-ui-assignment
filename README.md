@@ -47,7 +47,7 @@ cd react-ui-assignment
 
 ----
 
-## ▶️ Usage
+# # ▶️ Usage
 
 Install dependencies:
 ```bash
